@@ -1,0 +1,19 @@
+{
+  "name": "taller1-rickandmorty-backend",
+  "version": "1.0.0",
+  "description": "Taller 1 – JavaScript: Promesas, APIs y Manipulación de Datos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "comparar": "node index.js --comparar"
+  },
+  "keywords": [
+    "javascript",
+    "promises",
+    "async-await",
+    "fetch",
+    "rickandmorty"
+  ],
+  "author": "",
+  "license": "ISC"
+}
